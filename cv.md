@@ -6,6 +6,7 @@
  - _Phone:+375292064300_ 
  - _E-mail: saha12345678912345@gmail.com_
  - _Tellegram: @Alexandr Gatyliuk_
+ - _Viber:+375292064300_
  ---
 ## ***Briefly About Myself:***
 ### _After graduating from high school, I entered the Polytechnic College, graduated with honors, entered Bstu, I study in an abbreviated form. I decided to take up JavaScript, because many of my friends advised me to start with it. Previously, he was engaged in 3D visualization and project design on various virtual machines like Solidworks, Kompas 3D, 3D Max, AutoCAD. Currently in search of his future profession._
