@@ -1,1 +1,2 @@
-# rsschool-cv
+# https://alexabdrgat.github.io/rsschool-cv/
+# 
